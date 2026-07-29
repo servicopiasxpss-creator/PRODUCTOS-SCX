@@ -9,7 +9,7 @@
       "moneda": "$",
       "descripcion": "Compatible con 1212 y 1214",
       "categoria": "Materiales",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+      "imagen_url": "https://m.media-amazon.com/images/I/314ew4EzejL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "id": "002",
@@ -18,7 +18,7 @@
       "moneda": "$",
       "descripcion": "Compatible con M125 y M127",
       "categoria": "Materiales",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+      "imagen_url": "https://m.media-amazon.com/images/I/314ew4EzejL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "id": "003",
@@ -27,7 +27,7 @@
       "moneda": "$",
       "descripcion": "Compatible con P2035 y P2055",
       "categoria": "Materiales",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+      "imagen_url": "https://m.media-amazon.com/images/I/314ew4EzejL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "id": "004",
