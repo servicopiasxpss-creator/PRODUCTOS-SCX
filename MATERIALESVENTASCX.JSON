@@ -1,0 +1,96 @@
+{
+  "negocio": "ServiCopias Xpress",
+  "ultima_actualizacion": "2024-05-23",
+  "productos": [
+    {
+      "id": "001",
+      "nombre": "Tóner 85A",
+      "precio": 15.00,
+      "moneda": "$",
+      "descripcion": "Compatible con 1212 y 1214",
+      "categoria": "Materiales",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+    },
+    {
+      "id": "002",
+      "nombre": "Tóner 83A",
+      "precio": 18.00,
+      "moneda": "$",
+      "descripcion": "Compatible con M125 y M127",
+      "categoria": "Materiales",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+    },
+    {
+      "id": "003",
+      "nombre": "Tóner 05A",
+      "precio": 20.00,
+      "moneda": "$",
+      "descripcion": "Compatible con P2035 y P2055",
+      "categoria": "Materiales",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+    },
+    {
+      "id": "004",
+      "nombre": "Resma de Papel Carta",
+      "precio": 6.00,
+      "moneda": "$",
+      "descripcion": "500 hojas, blanco extra",
+      "categoria": "Papelería",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_64}}"
+    },
+    {
+      "id": "005",
+      "nombre": "Tinta Epson 664 Negra",
+      "precio": 10.00,
+      "moneda": "$",
+      "descripcion": "Original para serie L",
+      "categoria": "Insumos",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_65}}"
+    },
+    {
+      "id": "006",
+      "nombre": "Carpeta de Fibra",
+      "precio": 0.50,
+      "moneda": "$",
+      "descripcion": "Tamaño oficio con gancho",
+      "categoria": "Papelería",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_64}}"
+    },
+    {
+      "id": "007",
+      "nombre": "Engrapadora Mediana",
+      "precio": 8.00,
+      "moneda": "$",
+      "descripcion": "Metálica, carga completa",
+      "categoria": "Ofimática",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_36}}"
+    },
+    {
+      "id": "008",
+      "nombre": "Tóner 17A",
+      "precio": 22.00,
+      "moneda": "$",
+      "descripcion": "Sin chip, compatible M102",
+      "categoria": "Materiales",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+    },
+    {
+      "id": "009",
+      "nombre": "Grapas 26/6",
+      "precio": 1.50,
+      "moneda": "$",
+      "descripcion": "Caja de 5000 unidades",
+      "categoria": "Ofimática",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_36}}"
+    },
+    {
+      "id": "010",
+      "nombre": "CD-R Virgenes",
+      "precio": 0.80,
+      "moneda": "$",
+      "descripcion": "Pack individual, 700MB",
+      "categoria": "Insumos",
+      "imagen_url": "{{DATA:IMAGE:IMAGE_65}}"
+    }
+  ]
+}
