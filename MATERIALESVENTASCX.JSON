@@ -18,7 +18,7 @@
       "moneda": "$",
       "descripcion": "Compatible con M125 y M127",
       "categoria": "Materiales",
-      "imagen_url": "https://m.media-amazon.com/images/I/314ew4EzejL._AC_UF894,1000_QL80_.jpg"
+      "imagen_url": "https://www.megaoffice.com.ve/images/papele/papel-bond-escolar-carta-200-hojas.jpg"
     },
     {
       "id": "003",
@@ -27,7 +27,8 @@
       "moneda": "$",
       "descripcion": "Compatible con P2035 y P2055",
       "categoria": "Materiales",
-      "imagen_url": "https://m.media-amazon.com/images/I/314ew4EzejL._AC_UF894,1000_QL80_.jpg"
+      "imagen_url": "https://www.tiatula.com.ec/tienda/wp-content/uploads/2025/11/23872.jpg
+"
     },
     {
       "id": "004",
@@ -36,7 +37,8 @@
       "moneda": "$",
       "descripcion": "500 hojas, blanco extra",
       "categoria": "Papelería",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_64}}"
+      "imagen_url": "https://www.ofiprinter.com/wp-content/uploads/2023/08/Opalina-extra-blanca-en-todos-los-tamanos-hojas-Panafargo-600x600-1.png
+"
     },
     {
       "id": "005",
@@ -45,7 +47,8 @@
       "moneda": "$",
       "descripcion": "Original para serie L",
       "categoria": "Insumos",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_65}}"
+      "imagen_url": "https://www.laiberica.com.sv/wp-content/uploads/2026/02/10040.png
+"
     },
     {
       "id": "006",
@@ -54,7 +57,8 @@
       "moneda": "$",
       "descripcion": "Tamaño oficio con gancho",
       "categoria": "Papelería",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_64}}"
+      "imagen_url": "https://http2.mlstatic.com/D_778220-MLM111543963741_052026-C.jpg
+"
     },
     {
       "id": "007",
@@ -63,7 +67,8 @@
       "moneda": "$",
       "descripcion": "Metálica, carga completa",
       "categoria": "Ofimática",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_36}}"
+      "imagen_url": "https://m.media-amazon.com/images/I/31IeMWkJCyL._AC_UF894,1000_QL80_.jpg
+"
     },
     {
       "id": "008",
@@ -72,7 +77,8 @@
       "moneda": "$",
       "descripcion": "Sin chip, compatible M102",
       "categoria": "Materiales",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_16}}"
+      "imagen_url": "https://raima.cat/wp-content/uploads/2018/04/products-14665.jpg
+"
     },
     {
       "id": "009",
@@ -81,7 +87,8 @@
       "moneda": "$",
       "descripcion": "Caja de 5000 unidades",
       "categoria": "Ofimática",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_36}}"
+      "imagen_url": "https://www.libreriaeuropa.com.ve/libreria_media/producto/717491/0000717491.jpg
+"
     },
     {
       "id": "010",
@@ -90,7 +97,8 @@
       "moneda": "$",
       "descripcion": "Pack individual, 700MB",
       "categoria": "Insumos",
-      "imagen_url": "{{DATA:IMAGE:IMAGE_65}}"
+      "imagen_url": "https://www.libreriaeuropa.com.ve/libreria_media/producto/717491/0000717491.jpg
+"
     }
   ]
 }
